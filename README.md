@@ -2,7 +2,7 @@
 
 #  Sistema de Monitoramento de Alunos - Java
 
-Este projeto em Java é um sistema que permite o **gerenciamento de informações de alunos**, como nome, matrícula, média e status de aprovação. Ideal para quem está praticando os **fundamentos da linguagem Java**, incluindo:
+Criei este projeto em Java: sistema que permite o **gerenciamento de informações de alunos**, como nome, matrícula, média e status de aprovação. Ideal para quem está praticando os **fundamentos da linguagem Java**, incluindo:
 
 - Atributos e métodos;
 - Construtores;
